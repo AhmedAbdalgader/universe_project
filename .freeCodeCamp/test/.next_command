@@ -278,3 +278,17 @@ git pull
 git merge --no-ff
 git push
 git add .
+git commit -m "completing the project successfully "
+git push
+git pull
+git rebase
+git commit -m "completing the project successfully "
+git add .
+git revert e1f856e
+git remote https://github.com/AhmedAbdalgader/universe_project
+git remote URL https://github.com/AhmedAbdalgader/universe_project
+git remote add URL https://github.com/AhmedAbdalgader/universe_project
+git remote -v
+git remote rm origin
+git remote -v
+git add .
